@@ -1,0 +1,16 @@
+{
+  "name"          : "jquery-browserify",
+  "description"   : "jQuery: The Write Less, Do More, JavaScript Library",
+  "url"           : "jquery.com",
+  "keywords"      : ["util", "dom", "jquery"],
+  "author"        : "John Resig <jeresig@gmail.com>",
+  "contributors"  : [],
+  "dependencies"  : {},
+  "lib"           : "lib",
+  "main"          : "./lib/jquery-1.5.js",
+  "version"       : "1.5.0",
+  "browserify"    : {
+    "dependencies" : "",
+    "main"         : "./lib/jquery-1.5.js"
+  }
+}
