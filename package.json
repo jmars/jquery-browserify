@@ -1,6 +1,6 @@
 {
   "name"          : "jquery-browserify",
-  "description"   : "jQuery: The Write Less, Do More, JavaScript Library",
+  "description"   : "jQuery: The Write Less, Do More, JavaScript Library, packaged for browserify",
   "url"           : "jquery.com",
   "keywords"      : ["util", "dom", "jquery"],
   "author"        : "John Resig <jeresig@gmail.com>",
@@ -9,6 +9,8 @@
   "lib"           : "lib",
   "main"          : "./lib/jquery-1.6.js",
   "version"       : "1.6.0",
+  "repository"    : "git://github.com/jmars/jquery-browserify.git",
+  "homepage"      : "http://www.jQuery.com",
   "browserify"    : {
     "dependencies" : "",
     "main"         : "./lib/jquery-1.6.js"
