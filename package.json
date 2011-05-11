@@ -7,10 +7,10 @@
   "contributors"  : [],
   "dependencies"  : {},
   "lib"           : "lib",
-  "main"          : "./lib/jquery-1.5.js",
-  "version"       : "1.5.0",
+  "main"          : "./lib/jquery-1.6.js",
+  "version"       : "1.6.0",
   "browserify"    : {
     "dependencies" : "",
-    "main"         : "./lib/jquery-1.5.js"
+    "main"         : "./lib/jquery-1.6.js"
   }
 }
