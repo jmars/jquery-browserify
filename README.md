@@ -5,7 +5,7 @@ Just add it to your browserify require list and use it!
 
 ````javascript
 var $ = require('jquery-browserify')
-$('img[attr$='png']).hide()
+$("img[attr$='png']").hide()
 ````
 
 If you are using browserify >= 0.4.7 you can map it to 'jquery' for convenience, thanks substack!
