@@ -7,12 +7,12 @@
   "contributors"  : [],
   "dependencies"  : {},
   "lib"           : "lib",
-  "main"          : "./lib/jquery-1.6.2.js",
-  "version"       : "1.6.2",
+  "main"          : "./lib/jquery.js",
+  "version"       : "1.7.2",
   "repository"    : "git://github.com/jmars/jquery-browserify.git",
   "homepage"      : "http://www.jQuery.com",
   "browserify"    : {
     "dependencies" : "",
-    "main"         : "lib/jquery-1.6.2.js"
+    "main"         : "lib/jquery.js"
   }
 }
