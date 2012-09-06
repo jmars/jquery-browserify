@@ -4,11 +4,11 @@
   "url"           : "jquery.com",
   "keywords"      : ["util", "dom", "jquery"],
   "author"        : "John Resig <jeresig@gmail.com>",
-  "contributors"  : [],
+  "contributors"  : ['Joshua K. Farrar <joshua@uber1337hax.com>'],
   "dependencies"  : {},
   "lib"           : "lib",
   "main"          : "./lib/jquery.js",
-  "version"       : "1.7.2",
+  "version"       : "1.8.1",
   "repository"    : "git://github.com/jmars/jquery-browserify.git",
   "homepage"      : "http://www.jQuery.com",
   "browserify"    : {
