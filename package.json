@@ -4,7 +4,7 @@
   "url"           : "jquery.com",
   "keywords"      : ["util", "dom", "jquery"],
   "author"        : "John Resig <jeresig@gmail.com>",
-  "contributors"  : ['Joshua K. Farrar <joshua@uber1337hax.com>'],
+  "contributors"  : ["Joshua K. Farrar <joshua@uber1337hax.com>"],
   "dependencies"  : {},
   "lib"           : "lib",
   "main"          : "./lib/jquery.js",
