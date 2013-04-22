@@ -1,5 +1,5 @@
-$ = require('../lib/jquery')
+$ = require('./jquery')
 
 jQuery(document).ready(function($) {
-  console.log('eh?');
+  $('#title').text('hi!');
 });
