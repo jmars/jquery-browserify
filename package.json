@@ -8,8 +8,8 @@
   "dependencies"  : {},
   "lib"           : "lib",
   "main"          : "./lib/jquery.js",
-  "version"       : "1.8.1",
-  "repository"    : "git://github.com/jmars/jquery-browserify.git",
+  "version"       : "2.0.0",
+  "repository"    : "git://github.com/zipp/jquery-browserify.git",
   "homepage"      : "http://www.jQuery.com",
   "browserify"    : {
     "dependencies" : "",
